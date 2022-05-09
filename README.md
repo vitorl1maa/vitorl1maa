@@ -37,6 +37,8 @@ me motiva!
 <img align="right" alt="gif-dev" height="150" width="auto"
 src="https://user-images.githubusercontent.com/91066071/153689155-b3c66a18-c034-46f8-b7df-9e5f37d5e1bb.gif">
 
+![Snake animation](https://github.com/vitorl1maa)
+
 </div>
 
 
