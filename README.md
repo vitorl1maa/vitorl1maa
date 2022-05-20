@@ -34,6 +34,8 @@ me motiva!
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-lima-591aa4146/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/vLima009)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_nasc.000x/)
+
+
 <img align="right" alt="gif-dev" height="150" width="auto"
 src="https://user-images.githubusercontent.com/91066071/153689155-b3c66a18-c034-46f8-b7df-9e5f37d5e1bb.gif">
 
