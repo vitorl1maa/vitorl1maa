@@ -2,14 +2,11 @@
 
 Sou um jovem de 24 anos,
 apaixonado por, programação, tecnologia,
-metas, desafios e inovação.
-Sempre busquei por isso no
-mercado de trabalho, a
-possibilidade de mudar o
+metas, desafios e inovação. A possibilidade de mudar o
 mundo ou a vida de alguém
 mesmo que indiretamente
-com meu trabalho é o que
-me motiva!
+com meu trabalho e o meu código é o que
+me motiva todos os dias!
 
 
 <div align="center"></br>
