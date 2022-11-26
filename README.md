@@ -1,12 +1,8 @@
 ## Olá Mundo, meu nome é Vitor! 🖖
 
-Sou um jovem de 24 anos,
+Sou um jovem de 24 anos, estudante de desenvolvimento mobile.
 apaixonado por, programação, tecnologia,
-metas, desafios e inovação. A possibilidade de mudar o
-mundo ou a vida de alguém
-mesmo que indiretamente
-com meu trabalho e o meu código é o que
-me motiva todos os dias!
+desafios e inovação.
 
 
 <div align="center"></br>
