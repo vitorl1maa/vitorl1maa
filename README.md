@@ -37,7 +37,7 @@ desafios e inovação.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_nasc.000x/)
 
 
-<img align="right" alt="gif-dev" height="150" width="auto"
+<img align="right" alt="gif-dev" height="150" width="100"
 src="https://user-images.githubusercontent.com/91066071/153689155-b3c66a18-c034-46f8-b7df-9e5f37d5e1bb.gif">
 
 ![Snake animation](https://github.com/vitorl1maa/vitorl1maa/blob/output/github-contribution-grid-snake.svg)
