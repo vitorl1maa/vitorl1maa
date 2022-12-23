@@ -5,11 +5,10 @@ Apaixonado por, programação, tecnologia,
 desafios e inovação.
 
 
-<div align="center"></br>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorl1maa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorl1maa&layout=compact&langs_count=7&theme=merko"/>
-</div></br>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=FFE600&icon_color=FFE600&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorl1maa&layout=compact&hide_border=true&title_color=FFE600&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 ## Tecnologias que eu utilizo atualmente 💻
 
