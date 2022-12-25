@@ -29,6 +29,12 @@ desafios e inovação.
     <img align="center" alt="Vitor-tailwind" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
      <img align="center" alt="Vitor-figma" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
    </div></br>
+   
+   ##
+   
+   <div>
+       <a href="https://www.linkedin.com/in/vitor-lima-591aa4146" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   </div>
 
 <div style="display: inline_block"></br>
 
