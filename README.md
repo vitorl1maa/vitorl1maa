@@ -25,7 +25,6 @@ desafios e inovação.
    <div style="display: inline_block"></br>
      <img align="center" alt="Vitor-Sass" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Vitor-React.JS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-    <img align="center" alt="Vitor-npm" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
     <img align="center" alt="Vitor-tailwind" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
      <img align="center" alt="Vitor-figma" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
    </div></br>
