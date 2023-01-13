@@ -32,7 +32,7 @@ desafios e inovação.
 
 <div style="display: inline_block"></br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorl1maa&bg_color=0d1117&color=d3e548&line=ffe600&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorl1maa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
