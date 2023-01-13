@@ -32,9 +32,6 @@ desafios e inovação.
 
 <div style="display: inline_block"></br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorl1maa)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!-- ![Snake animation](https://github.com/vitorl1maa/vitorl1maa/blob/output/github-contribution-grid-snake.svg) -->
 
