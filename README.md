@@ -1,8 +1,6 @@
 ## Olá Mundo<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é Vitor!
 
-Sou um jovem de 25 anos, estudante de desenvolvimento web.
-Apaixonado por, liguagens de programação, tecnologia,
-desafios e inovação.
+Apaixonado por liguagens de programação e tecnologia.
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorl1maa&show_icons=true&count_private=true&hide_border=true&title_color=FFE600&icon_color=FFE600&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
