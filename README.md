@@ -5,7 +5,7 @@ Apaixonado por liguagens de programação e tecnologia.
 <div  align="center">
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorl1maa&show_icons=true&count_private=true&hide_border=true&title_color=FFE600&icon_color=FFE600&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorl1maa&layout=compact&hide_border=true&title_color=FFE600&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="50%" height="195px"  src="https://github-readme-streak-stats.herokuapp.com?user=vitorl1maa&locale=pt_BR&background=00000000&border=E5EB29&stroke=E5EB29&ring=E5EB29&fire=E5EB29&currStreakNum=E5EB29&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=vitorl1maa&background=00000000&border=E5EB29&stroke=E5EB29&ring=E5EB29&fire=E5EB29&currStreakNum=E5EB29&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB" />
 </div>
 
 
