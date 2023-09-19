@@ -15,7 +15,7 @@ Sou um Desenvolvedor que transforma conceitos criativos e minimalistas em experi
 
 - 🔭 Atualmente estou trabalhando como freelancer
 - :computer: A linha de código que eu mais uso atualmente `git commit -m "Initial Commit"`
-- 🤔 Sempre a procura de aprender uma nova stack.
+- 🤔 Sempre a procura de uma nova stack para aprender.
 - 🖤 I love dark themes
 - ⚡ Jogar video game e correr são meus hobbies favoritos atualmente
 
