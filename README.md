@@ -15,7 +15,6 @@ Sou um Desenvolvedor que transforma conceitos criativos e minimalistas em experi
 
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=000)](#)
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-B125EA?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
 [![Android Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](#)
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/React%20js-000?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
