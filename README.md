@@ -27,7 +27,7 @@ Sou um Desenvolvedor que transforma conceitos criativos e minimalistas em experi
 
 ### O que eu faço atualmente
 
-- 🔭 Atualmente estou trabalhando como freelancer
+- 🔭 Atualmente estou trabalhando como Desenvolvedor Front-end
 - :computer: A linha de código que eu mais uso atualmente `git commit -m "Initial Commit"`
 - 🤔 Sempre a procura de uma nova stack para aprender.
 - 🖤 I love dark themes
