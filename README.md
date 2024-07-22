@@ -1,12 +1,5 @@
 ## Olá, meu nome é Vitor! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🚀 Dê uma olhada no meu Portfólio [portifolio-v-2.vercel.app](https://portifolio-v-2.vercel.app/)
-
-Sou um Desenvolvedor que transforma conceitos criativos e minimalistas em experiências digitais.
-
-:mailbox: Entre em contato comigo!
-
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-lima-591aa4146) [![Mail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_nasc.000x) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitornascimento923@gmail.com)
 
 <br/>
@@ -27,13 +20,10 @@ Sou um Desenvolvedor que transforma conceitos criativos e minimalistas em experi
 
 <br/>
 
-### O que eu faço atualmente 
 
-- 🔭 Atualmente estou trabalhando como Desenvolvedor Front-end
-- :computer: A linha de código que eu mais uso atualmente `git commit -m "Initial Commit"`
-- 🤔 Sempre a procura de uma nova stack para aprender.
+- 🔭 Trabalhando atualmente como Desenvolvedor Front-end
 - 🖤 I love dark themes
-- ⚡ Jogar video game e correr são meus hobbies favoritos atualmente
+- ⚡ Keep moving
 
   <br/>
 
