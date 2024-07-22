@@ -20,12 +20,13 @@ Sou um Desenvolvedor que transforma conceitos criativos e minimalistas em experi
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) 
 [![Next Badge](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![Styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![PostgresSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
 <br/>
 
-### O que eu faço atualmente
+### O que eu faço atualmente 
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor Front-end
 - :computer: A linha de código que eu mais uso atualmente `git commit -m "Initial Commit"`
