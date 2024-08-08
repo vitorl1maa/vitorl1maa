@@ -23,7 +23,7 @@
 
 - 🔭 Trabalhando atualmente como Desenvolvedor Front-end
 - 🖤 I love dark themes
-- ⚡ Keep moving
+- 🦈 Keep moving
 
   <br/>
 
