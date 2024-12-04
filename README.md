@@ -19,7 +19,7 @@
 <br/>
 
 
-- 🔭 Trabalhando atualmente como Desenvolvedor Mobile
+- 🔭 Trabalhando atualmente como Desenvolvedor Front-end
 - 🖤 I love dark themes
 - 🦈 Keep moving
 
