@@ -2,24 +2,23 @@
 
 <br/>
 
-### Top tecnologias
+### Tecnologias que utilizo atualmente
 
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
-[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/React%20js-000?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
-[![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) 
-[![Next Badge](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![Styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![PostgresSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Android_Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](#)
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,react,nextjs,angular,dotnet,postgres,firebase" />
+  </a>
+</p>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,docker,tailwind,styledcomponents,sass,figma,jest,postman,git" />
+  </a>
+</p>
 
 <br/>
 
 
-- 🔭 Trabalhando atualmente como Desenvolvedor Front-end
+- 🔭 Trabalhando atualmente como Desenvolvedor Web e Mobile
 - 🖤 I love dark themes
 - 🦈 Keep moving
 
