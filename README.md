@@ -28,11 +28,7 @@
 
 ### Coding Stats
 
-<div  align="center">
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorl1maa&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Lima github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorl1maa&layout=compact&hide_border=true&title_color=fff&text_color=fff9&bg_color=0d1117" />
 
-<div style="display: inline_block"></br>
 
 <!-- ![Snake animation](https://github.com/vitorl1maa/vitorl1maa/blob/output/github-contribution-grid-snake.svg)
 
