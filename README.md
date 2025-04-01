@@ -6,12 +6,12 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,react,nextjs,angular,dotnet,postgres,firebase" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,postgres,firebase,tailwind" />
   </a>
 </p>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,docker,tailwind,styledcomponents,sass,figma,jest,postman,git" />
+    <img src="https://skillicons.dev/icons?i=supabase,docker,styledcomponents,sass,figma,jest,postman,git" />
   </a>
 </p>
 
