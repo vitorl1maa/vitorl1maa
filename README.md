@@ -1,3 +1,7 @@
+<img src="banner_black.png" alt="Github Banner" width="100%"/>
+
+
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-lima-591aa4146) [![Mail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_nasc.000x) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitornascimento923@gmail.com)
 
 <br/>
