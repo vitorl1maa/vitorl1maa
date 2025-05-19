@@ -25,7 +25,6 @@ Atuo como engenheiro de software com foco no desenvolvimento de soluções web e
 
 <br/>
 
-![vitorl1maa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitorl1maa&theme=great-gatsby&hide_border=true)
 ![vitorl1maa's Stats](https://github-readme-stats.vercel.app/api?username=vitorl1maa&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
   <br/>
 
