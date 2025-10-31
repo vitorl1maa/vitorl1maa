@@ -12,6 +12,8 @@ Atuo como engenheiro de software. Minha experiência inclui desde a construção
 
 ### Tecnologias que utilizo atualmente:
 
+
+
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,angular,nodejs,postgres,docker,mongo" />
@@ -19,7 +21,7 @@ Atuo como engenheiro de software. Minha experiência inclui desde a construção
 </p>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,tailwind,styledcomponents,sass,figma,jest,postman,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,sass,figma,jest" />
   </a>
 </p>
 
